@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class DatabaseInitApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(DatabaseInitApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(DatabaseInitApplication.class, args);
+    }
 
 }
